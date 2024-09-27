@@ -39,7 +39,7 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-<H3>PROGRAM</H3>
+<h3>PROGRAM</h3>
 <hr>
 ```
 import random
