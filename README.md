@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 <H3>PROGRAM</H3>
-```
+~~~
 import random
 class HealthMonitoringAgent:
     def __init__(self, patient_data):
@@ -83,8 +83,9 @@ if __name__ == "__main__":
     health_monitoring_agent.sensors = health_sensors
     health_monitoring_agent.actuators = health_actuators
     health_monitoring_agent.monitor_health()
-  ```
+~~~
   <H3>OUTPUT</H3>
-  ![image](https://github.com/user-attachments/assets/55a271fb-f95c-4a79-92be-34e3dd16c30b)
+  ![Screenshot 2024-09-27 083902](https://github.com/user-attachments/assets/72ceba03-2c95-4e1b-b2e8-816c70892e21)
+
   <H3>RESULT</H3>
   Hence, the solution for the given AI problem is found.
