@@ -43,6 +43,7 @@
 <hr>
 ```
 import random
+
 class HealthMonitoringAgent:
     def __init__(self, patient_data):
         self.patient_data = patient_data
