@@ -98,9 +98,11 @@ if __name__ == "__main__":
 ```
 </hr>
 
-<H3>OUTPUT</H3>
-<hr>
-![image](https://github.com/user-attachments/assets/1649fce9-1cfb-44d6-b909-408a5d935528)
-</hr>
-<H3>RESULT</H3>
-  Hence, the solution for the given AI problem is found.
+<h3>OUTPUT</h3>
+
+![image](https://github.com/user-attachments/assets/b29f64bc-e26b-413b-9bb9-f27afefca1f6)
+
+<h3>RESULT</h3>
+
+<p>Hence, the solution for the given AI problem is found.</p>
+
