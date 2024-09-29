@@ -99,7 +99,7 @@ if __name__ == "__main__":
 </hr>
 
 <H3>OUTPUT</H3>
-  ![Screenshot 2024-09-27 083902](https://github.com/user-attachments/assets/72ceba03-2c95-4e1b-b2e8-816c70892e21)
+
 
 <H3>RESULT</H3>
   Hence, the solution for the given AI problem is found.
